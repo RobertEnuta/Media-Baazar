@@ -1,0 +1,250 @@
+@font-face{
+  font-family: Play;
+  src:url(fonts/SpaceGrotesk-VariableFont_wght.ttf);
+}
+
+body{
+  margin: 0;
+  background-color: black ; 
+  background: url(../resources/background.png) no-repeat center center fixed;
+	background-size: cover;
+  font-family: Play;
+}
+
+ .container-fullwidth{
+	width: 100%;
+	float: left;
+	margin-bottom: 100px;
+}
+
+.container {
+	width: 1280px;
+	margin: auto;
+	
+}
+.contactus{
+	padding: 20px;
+	float: left;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.2);
+	border: 1px solid #fff;
+	margin-top: 100px;
+	color: #fff;
+	box-sizing: border-box;
+}
+.contact-us-image1 img {
+	float: left;
+	width: 200px;
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+.contact-us-image1 img:hover{
+transform: scale(1.1);
+	transition: 0.5s;	
+}
+
+/*more */
+/*header and header text*/
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #000000;
+  color: white;
+}
+.header h1 {
+  font-size: 30px;   
+} 
+
+.logo {
+  font-size: 50px;
+  margin-left: 30px;
+ }
+ 
+/*header end*/
+
+/*log in button*/
+.butnbutntest{
+  /*border, margin, padding*/
+  border:  3px solid black;
+  padding: 2px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+  /*text*/
+  text-align: center;
+  font-size: 140%;
+}
+.butnbutntest:hover{
+  background: #000000;
+  color: #fff;
+}
+/*button container*/
+.butn-container{
+  margin: 5%;
+}
+/*Profile pic and text for showing whos logged in*/
+.p-container{
+  box-sizing: border-box;
+  position: relative;
+  margin: 5%;
+  border: 2px solid black;
+}
+.p-pic{
+  border: 5px solid black;
+  border-radius: 50%;
+  margin: 1%;
+  position: relative;
+  top:12px;
+  left: 12px;
+  max-width: 20%;
+  max-height: 20%;
+}
+.p-text{
+  right:12px;
+  text-align: left;
+  font-size: 25px;
+  position: relative;
+  margin-right: 5%;
+}
+.bg-modal /* background */
+{
+  width: 100%;
+  height: 120%;
+  position: absolute;
+  top:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: fixed;
+}
+.modal-content /* box*/
+{
+  width: 40%;
+  height: 55%;
+  background-color: white;
+  border-radius: 4px;
+  border-left: 5px solid #22d0e7e1;
+  border-right: 5px solid #22d0e7e1;
+  border-top: 5px solid #22d0e7e1;
+  border-bottom: 5px solid #22d0e7e1;
+  text-align:center;
+  padding:20px;
+  position: relative;
+}
+input[type=text], input[type=password] 
+{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  color:#000000;
+}
+.input{
+  width: 50%;
+  display:block;
+  margin: 0 auto; 
+}
+/* background */
+/* Login button in popup*/
+form .btn button{
+  height: 100%;
+  width: 100%;
+  border: none;
+  color: #fff;
+  background: black;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+form .btn :hover{
+  opacity: 0.85;
+}
+form .btn :active{
+  color: #66f8e5;
+  background-color: #0b1b1a;
+}
+form .btn{
+  margin: 30px 0;
+  height: 45px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+/*title popup*/
+.bg-modal .title{
+   font-size: 40px;
+   font-weight: 200;
+   color:black;
+}
+/*labels above input boxes*/
+form .data label{
+  font-size: 20px;
+}
+/*input boxes*/
+form .data input{
+  height: 100%;
+  width: 100%;
+  margin-right: 1px;
+  font-size: 17px;
+  border: 1px solid silver;
+}
+form .data input:focus{
+  border-color: #f8667e;
+  border-bottom-width: 2px;
+}
+/*forgot pass*/
+form .forgot-pass{
+  margin-top: -8px;
+}
+form .forgot-pass a{
+  color: #58cea1;
+  text-decoration: none;
+}
+form .forgot-pass a:hover{
+  text-decoration: underline;
+}
+
+  .glow {
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  @-webkit-keyframes glow 
+  {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #39bfd1e1, 0 0 40px #39bfd1e1, 0 0 50px #39bfd1e1, 0 0 60px #39bfd1e1, 0 0 70px #39bfd1e1;
+    }
+    
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #22d0e7e1, 0 0 40px #22d0e7e1, 0 0 50px #22d0e7e1, 0 0 60px #22d0e7e1, 0 0 70px #22d0e7e1, 0 0 80px #22d0e7e1;
+    }
+  }
+  .responsive {
+    width: 100%;
+    height: auto;  
+    margin-left: 34.5%;	
+    margin-right: -45%;
+    max-width: 10%;
+    max-height: 2.5%; 
+    float: left;
+    display: block;
+    text-align: left;
+  }
+  input[type=name]
+  {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color:white;
+  }

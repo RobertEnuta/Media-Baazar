@@ -1,0 +1,848 @@
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.btnLogIn.resources
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\Ben\source\repos\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManager.resources
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Menu.resources
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Stock.resources
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+D:\Uni\Semester 2\Project work\Project\design-and-notes-master-Code\design-and-notes-master-Code\Code\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Stock.resources
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+F:\UNIVERSITY\Second Semester\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Stock.resources
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+D:\Uni\Semester 2\Project work\Project\media-bazaar-gr4-master\media-bazaar-gr4-master\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Stock.resources
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\plasm\Desktop\Git\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Stock.resources
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magg_\Desktop\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Stock.resources
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\plasm\Desktop\BackUp\BackUp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Stock.resources
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Katrin\Downloads\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+D:\Uni\Semester 2\Project work\Project\HardwareStoreAppHi\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\Ben\Desktop\Tempwork\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Katrin\Desktop\HardwareStoreApp\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\plasm\Desktop\media-bazaar-gr4-Kath\HardwareStoreApp\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.manifest
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.application
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ShiftEditor.resources
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\XamlC.stamp
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe.manifest
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.application
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\ben clone, the second\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.manifest
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.application
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ShiftEditor.resources
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\XamlC.stamp
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe.manifest
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.application
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\git folder so i can push to git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.manifest
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.application
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RoleManagerForm.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ShiftEditor.resources
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\XamlC.stamp
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe.manifest
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.application
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\plasm\Desktop\Petar\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.manifest
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.application
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RoleManagerForm.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ShiftEditor.resources
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\XamlC.stamp
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe.manifest
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.application
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\another copy of my folder so i can check if it works\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductUpdate.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RoleManagerForm.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.SellProductsForm.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ShiftEditor.resources
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.manifest
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.application
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\XamlC.stamp
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe.manifest
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.application
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\Ben\Desktop\Git\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.manifest
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.application
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductUpdate.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RoleManagerForm.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.SellProductsForm.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ShiftEditor.resources
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\XamlC.stamp
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe.manifest
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.application
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\Ben\Desktop\supermaster\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.config
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe.manifest
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.application
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\HardwareStoreApp.pdb
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Zstandard.Net.dll
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Google.Protobuf.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\MySql.Data.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Renci.SshNet.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfCalendar.XForms.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Buffers.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Memory.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csprojAssemblyReference.cache
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.DepartmentAndRequest.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeEditor.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.EmployeeManagerForm.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.AddRemoveStock.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.LogIn.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.MenuForm.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductsForm.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ProductUpdate.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Properties.Resources.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RequestForm.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.RoleManagerForm.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.Schedule.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.SellProductsForm.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.ShiftEditor.resources
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.GenerateResource.cache
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\XamlC.stamp
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe.manifest
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.application
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.csproj.CopyComplete
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.exe
+C:\Users\magg_\Desktop\ANOTHER CLONE BITES THE DUST\media-bazaar-gr4\HardwareStoreApp\obj\Debug\HardwareStoreApp.pdb
